@@ -21,19 +21,19 @@
 
 分析 `octocat/Hello-World`，展示默认分支、Commit SHA、55 分的就绪度结果及扣分明细。
 
-![asic-repor](git-repo-checker\docs\images\basic-report.png)
+![基础体检报告](docs/images/basic-report.png)
 
 ### 启动入口识别
 
 识别 `web/package.json` 中的 `npm start`、`npm run dev`，并列出 `scripts/start.bat`。
 
-![tartup-command](D:\Project\git-repo-checker\docs\images\startup-commands.png)
+![启动入口识别](docs/images/startup-commands.png)
 
 ### 风险定位
 
 测试仓库加入绝对路径、合成 Bearer 令牌和 `.env` 后，报告得分为 25，展示风险级别、文件位置和修改建议。令牌样本为测试字符串。
 
-![isk-repor](D:\Project\git-repo-checker\docs\images\risk-report.png)
+![风险定位报告](docs/images/risk-report.png)
 
 ## 快速启动
 
