@@ -21,7 +21,7 @@
 
 分析 `octocat/Hello-World`，展示默认分支、Commit SHA、55 分的就绪度结果及扣分明细。
 
-![asic-repor](D:\Project\git-repo-checker\docs\images\basic-report.png)
+![asic-repor](git-repo-checker\docs\images\basic-report.png)
 
 ### 启动入口识别
 
